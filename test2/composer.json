@@ -1,0 +1,14 @@
+{
+    "name": "fargan/excel-validator",
+    "description": "PHP package to validate excel data",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fargan",
+            "email": "amar.fargan@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
